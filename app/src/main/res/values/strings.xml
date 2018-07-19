@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">society-you-empty-activity</string>
+    <string name="under_image_header">Your social support app</string>
+    <string name="password_et">Password</string>
+    <string name="main_header">SocietyU</string>
+    <string name="input_email">Email</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign up!</string>
+    <string name="title_activity_sign_up_activity">Sign_up_activity</string>
+    <string name="first_name_signUp">First name</string>
+    <string name="lastName_signUp">Last name</string>
+    <string name="username_signUp">Username</string>
+    <string name="email_signUp">Email</string>
+    <string name="password_signUp">Password</string>
+    <string name="confirmPassword_signUp">Confirm Password</string>
+    <string name="dateOfBirth_signUp">Date of birth</string>
+    <string name="user_agreement_signUp">By signing up you agree to the SocietyU User Agreement, User Policy, and Cookie Policy.</string>
+    <string name="signUp_button">Agree and join!</string>
+    <string name="already_has_account_SignUp">Already have an account?</string>
+    <string name="already_signIn_button">Sign in.</string>
+    <string name="chooseProfilePicture">Choose a profile picture</string>
+</resources>
