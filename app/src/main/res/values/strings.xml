@@ -20,4 +20,6 @@
     <string name="already_has_account_SignUp">Already have an account?</string>
     <string name="already_signIn_button">Sign in.</string>
     <string name="chooseProfilePicture">Choose a profile picture</string>
+    <string name="forgot_pw_question">Forgot your password? Don\'t worry. We\'ve got you covered.</string>
+    <string name="resetButton">Reset</string>
 </resources>

@@ -81,7 +81,7 @@
     </android.support.design.widget.TextInputLayout>
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/mainForgotpw_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="72dp"
@@ -91,6 +91,7 @@
         android:layout_marginStart="126dp"
         android:layout_marginTop="17dp"
         android:text="@string/forgot_password"
+        android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
